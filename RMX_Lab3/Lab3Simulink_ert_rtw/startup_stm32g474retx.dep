@@ -1,0 +1,2 @@
+startup_stm32g474retx.o: \
+ D:/FIBO/2-1/FRA231/RMX_Lab3/Cubemx/STM32CubeIDE/Application/User/Startup/startup_stm32g474retx.s

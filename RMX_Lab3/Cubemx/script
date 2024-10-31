@@ -1,0 +1,10 @@
+config load "D:\FIBO\2-1\FRA231\RMX_Lab3\Cubemx\Cubemx.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\lenovo\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait
